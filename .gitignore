@@ -1,0 +1,11 @@
+# Sécurité : ce dépôt est public, il ne doit contenir que des images et des vidéos.
+.env
+*.env
+.env.*
+publication.json
+publie.json
+journal.md
+*.py
+__pycache__/
+Thumbs.db
+desktop.ini
